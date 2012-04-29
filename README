@@ -1,0 +1,21 @@
+This method of producing a slideshow on an iOS device makes it simple for even those who have little experience in using the Xcode SDK and developing in Obj-C and Cocoa on a whole. 
+
+1. Create a new project if not already done so…
+
+2. Create some header files, or download these ones
+
+3. C&P the code you see here into the places they are found on the headers you created noting there are .h and .m files to consider for implementation and action.
+
+4. Import images into your Xcode project for reference 
+
+5. 10 image parts in the array have already been done for you, if you have over 10 images simple add another instance and add the string for eg. 'image11' into the array bank. 
+
+6. Add file names and extensions of the images into the UIImage array list for eg. @"Puppy.png"
+
+7. Add a UIImageview onto a blank space in your project link the header or .h file with the entire view controller not just the UIImageview object.
+
+8. Link the methods
+
+9. Compile! & enjoy!
+
+// Animations to the project can be changed dependant on how good you are with timing in interval and image.objects . Entire GK frames can be added for more visually effective changes.
